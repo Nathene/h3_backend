@@ -1,0 +1,24 @@
+{
+  "Base": {
+    "Barracks": {
+      "Level": 1,
+      "Unlock": {
+        "Archer": false,
+        "Warrior": true
+      }
+    },
+    "Camp": {
+      "Capacity": 10,
+      "Level": 1
+    },
+    "Smith": {
+      "Level": 1,
+      "Troops": {
+        "Warrior": 1
+      }
+    }
+  },
+  "Level": 1,
+  "Name": "Nathan",
+  "Troops": []
+}

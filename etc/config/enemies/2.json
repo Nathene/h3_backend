@@ -1,0 +1,30 @@
+{
+    "Ghoul": {
+      "BaseStats": {
+        "Hp": 10,
+        "AttackPower": 2,
+        "DefensePower": 1,
+        "Accuracy": 10
+      },
+      "LevelMultiplier": {
+        "Hp": 1.5,
+        "AttackPower": 1.2,
+        "DefensePower": 1.1,
+        "Accuracy": 1.05
+      }
+    },
+    "Vampire": {
+      "BaseStats": {
+        "Hp": 17,
+        "AttackPower": 4,
+        "DefensePower": 2,
+        "Accuracy": 10
+      },
+      "LevelMultiplier": {
+        "Hp": 1.6,
+        "AttackPower": 1.3,
+        "DefensePower": 1.2,
+        "Accuracy": 1.08
+      }
+    }
+  }
